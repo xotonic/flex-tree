@@ -1,0 +1,63 @@
+
+
+.t-e {
+	display: inline-block;
+  	height: 28px;
+  	width: 28px;
+}
+
+.t-b {
+	display: inline-block;
+  	height: 28px;
+  	width: 28px;
+	background-image: url('branch.svg');
+}
+
+.t-cb {
+	display: inline-block;
+  	height: 28px;
+  	width: 28px;
+	background-image: url('c-branch.svg');
+}
+
+.t-cn {
+	display: inline-block;
+  	height: 28px;
+  	width: 28px;
+	background-image: url('c-node.svg');
+}
+
+.t-cpb {
+	display: inline-block;
+  	height: 28px;
+  	width: 28px;
+	background-image: url('cp-branch.svg');
+}
+
+.t-cpn {
+	display: inline-block;
+  	height: 28px;
+  	width: 28px;
+	background-image: url('cp-node.svg');
+}
+
+.t-root {
+	display: inline-block;
+  	height: 28px;
+  	width: 28px;
+	background-image: url('root.svg');
+}
+
+
+.t-cptn
+{
+	line-height: 28px;
+}
+
+.tree-row {
+	display: flex;
+}
+
+.tree-row:hover {
+	background-color: gray;
+}
